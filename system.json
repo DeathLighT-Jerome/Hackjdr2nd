@@ -51,6 +51,6 @@
     "primaryTokenAttribute": "resources.health",
     "secondaryTokenAttribute": "resources.power",
     "url": "https://github.com/DeathLighT-Jerome/Hackjdr2nd",
-    "manifest": "https://github.com/DeathLighT-Jerome/Hackjdr2nd/system.json",
+    "manifest": "https://github.com/DeathLighT-Jerome/Hackjdr2nd/master/system.json",
     "download": "https://github.com/DeathLighT-Jerome/Hackjdr2nd/archive/refs/heads/main.zip"
   }
